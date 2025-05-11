@@ -36,7 +36,11 @@ int main() {
  fr();
  // freopen("input.txt", "r", stdin);
  // freopen("output.txt", "w", stdout);
- int k, x;
- cin >> k >> x;
- cout << k*7-x << "\n";
+ int t;
+ cin >> t;
+ while (t--) {
+  int k, x;
+  cin >> k >> x;
+  cout << k*7-x << "\n";
+ }
 }

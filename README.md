@@ -34,3 +34,5 @@ Approach Overview: Kind of like a short editorial but less formal.
 
 # Checkpoints
 Will be updated as I solve more problems and get better.
+
+UPD1: So i just finished going through the problems off diff sub 500 and 500 to 1k on codechef and finished usaco bronze training, I will practice more bronze problems and atcoder virtual contests because i cant do lots of contests live due to timezones and personal work/exams. Also finished my first ever research paper a couple weeks back (cant say wahts its on publicly yet but its submitted and will be published after approval in a couple months). Im getting better and hopefully I can do well in BIO (british informatics olympiad) next year by continuing. More updates to come.
